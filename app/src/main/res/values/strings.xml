@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo My Colour List Challenges</string>
+    <string name="enter_new_colour">Enter New Colour</string>
+    <string name="enter_position_number">Enter Position Number</string>
+    <string name="add_new_column">ADD NEW COLUMN</string>
+    <string name="remove_a_colour">REMOVE A COLOUR</string>
+    <string name="update_a_colour">UPDATE A COLOUR</string>
+</resources>
